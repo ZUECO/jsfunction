@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 200px;
+}
+
+div,
+#one {
+    background-color: blue;
+}
+
+div,
+#two {
+    background-color: red;
+}
+
+div,
+#three {
+    background-color: green;
+}
+
+div,
+#four {
+    background-color: yellow;
+}
